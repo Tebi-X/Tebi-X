@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tebi-X
 - 👀 I’m interested in ... Industry automation field
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... C++ and ACAD Electrical
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... mail me ;) ... esteban.torres.perez.1994@gmail.com
